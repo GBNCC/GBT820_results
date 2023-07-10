@@ -1,0 +1,27 @@
+title = "J2016+38"
+
+[Name]
+value = "J2016+38"
+ref = "plots/J2016+38.fft.png" #hyperlink to discovery plot
+
+[Period]
+value = 231 #ms
+ref = ""
+
+[DM]
+value = 200 #pc/cc
+ref = ""
+
+[SinglePulse]
+value = "None"
+ref = "" #if true, put hyperlink here
+
+[Discovery]
+value = "UWM"
+ref = ""
+
+[Search]
+value = 'PRESTO'
+ref = ""
+
+#References go here

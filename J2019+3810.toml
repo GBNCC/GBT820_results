@@ -1,0 +1,27 @@
+title = "J2019+3810"
+
+[Name]
+value = "J2019+3810"
+ref = "plots/J2019+3810.fft.png" #hyperlink to discovery plot
+
+[Period]
+value = 525.24 #ms
+ref = ""
+
+[DM]
+value = 495 #pc/cc
+ref = ""
+
+[SinglePulse]
+value = "None"
+ref = "" #if true, put hyperlink here
+
+[Discovery]
+value = "UWM"
+ref = ""
+
+[Search]
+value = 'PEASOUP'
+ref = ""
+
+#References go here

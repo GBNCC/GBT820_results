@@ -1,0 +1,27 @@
+title = "J2057+4701"
+
+[Name]
+value = "J2057+4701"
+ref = "plots/J2057+4701.fft.png" #hyperlink to discovery plot
+
+[Period]
+value = 559.0 #ms
+ref = ""
+
+[DM]
+value = 219 #pc/cc
+ref = ""
+
+[SinglePulse]
+value = "None"
+ref = "" #if true, put hyperlink here
+
+[Discovery]
+value = "UWM"
+ref = ""
+
+[Search]
+value = 'PRESTO'
+ref = ""
+
+#References go here

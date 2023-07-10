@@ -1,0 +1,23 @@
+title = ""
+
+[Name]
+value = ""
+ref = "" #hyperlink to discovery plot
+
+[Period]
+value = #ms
+ref = ""
+
+[DM]
+value = #pc/cc
+ref = ""
+
+[SinglePulse]
+value = "None"
+ref = "" #if true, put hyperlink here
+
+[Discovery]
+value = "UWM"
+ref = ""
+
+#References go here
