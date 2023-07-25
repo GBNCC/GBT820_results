@@ -2,6 +2,7 @@
 0,J2016+38,231,200,None,UWM,PRESTO,plots/J2016+38.fft.png,--,--,--,--,--
 1,J2016+4231,1243.77,218,None,UWM,PEASOUP,plots/J2016+4231.fft.png,--,--,--,--,--
 2,J2019+3810,525.24,495,None,UWM,PEASOUP,plots/J2019+3810.fft.png,--,--,--,--,--
-3,J2035+3655,24,137,None,UWM,PRESTO,plots/J2035+36.fft.png,--,--,--,--,--
-4,J2041+4544,1160,304,None,UWM,PRESTO,plots/J2041+46.fft.png,--,--,--,--,--
-5,J2057+4701,559.0,219,None,UWM,PRESTO,plots/J2057+4701.fft.png,--,--,--,--,--
+3,J2035+3538,479.96,223.968,None,UWM,PEASOUP,plots/J2035+3538.peasoup.png,--,--,--,--,--
+4,J2035+3655,24,137,None,UWM,PRESTO,plots/J2035+36.fft.png,--,--,--,--,--
+5,J2041+4544,1160,304,None,UWM,PRESTO,plots/J2041+46.fft.png,--,--,--,--,--
+6,J2057+4701,559.0,219,None,UWM,PRESTO,plots/J2057+4701.fft.png,--,--,--,--,--
