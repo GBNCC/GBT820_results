@@ -5,11 +5,11 @@ value = "J2035+3538"
 ref = "plots/J2035+3538.peasoup.png" #hyperlink to discovery plot
 
 [Period]
-value = 479.96 #ms
+value = 480. #ms
 ref = ""
 
 [DM]
-value = 223.968 #pc/cc
+value = 224 #pc/cc
 ref = ""
 
 [SinglePulse]
