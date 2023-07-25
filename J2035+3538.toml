@@ -1,15 +1,15 @@
-title = ""
+title = "J2035+3538"
 
 [Name]
-value = ""
-ref = "" #hyperlink to discovery plot
+value = "J2035+3538"
+ref = "plots/J2035+3538.peasoup.png" #hyperlink to discovery plot
 
 [Period]
-value = #ms
+value = 479.96 #ms
 ref = ""
 
 [DM]
-value = #pc/cc
+value = 223.968 #pc/cc
 ref = ""
 
 [SinglePulse]
@@ -21,7 +21,7 @@ value = "UWM"
 ref = ""
 
 [Search]
-value = ''
+value = 'PEASOUP'
 ref = ""
 
 #References go here
