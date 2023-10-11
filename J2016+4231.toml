@@ -9,8 +9,8 @@ value = 1243.77 #ms
 ref = ""
 
 [DM]
-value = 218 #pc/cc
-ref = ""
+value = 222 #pc/cc
+ref = "" 
 
 [SinglePulse]
 value = "None"
