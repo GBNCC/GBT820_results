@@ -9,7 +9,7 @@ value = 480. #ms
 ref = ""
 
 [DM]
-value = 224 #pc/cc
+value = 219 #pc/cc
 ref = ""
 
 [SinglePulse]
